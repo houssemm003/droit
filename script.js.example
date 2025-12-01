@@ -1,0 +1,8 @@
+// Configuration - Clé API Gemini
+// IMPORTANT: Remplacez cette valeur par votre propre clé API
+// Obtenez votre clé sur: https://makersuite.google.com/app/apikey
+const API_KEY = "VOTRE_CLE_API_ICI";
+const MODEL = "gemini-2.5-flash";
+
+// ... reste du code ...
+
