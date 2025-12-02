@@ -1,5 +1,5 @@
 // Configuration - Clé API Gemini
-const API_KEY = "gen-lang-client-0653111005";
+const API_KEY = "AIzaSyAKYBiMuGEyvPbBvFLdt8nGacF6XZkKrgs";
 const MODEL = "gemini-2.5-flash";
 
 // Éléments DOM
