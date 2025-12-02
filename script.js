@@ -1,5 +1,5 @@
 // Configuration - Clé API Gemini
-const API_KEY = "AIzaSyCk7X-ivl1I7axQKeRbx8CjismHLMDjRSs";
+const API_KEY = "AIzaSyCBbl01B6F5dBkw9o3-RSYXuI8nl8i0CAc";
 const MODEL = "gemini-2.5-flash";
 
 // Éléments DOM
